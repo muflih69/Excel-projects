@@ -18,7 +18,8 @@ This project analyzes supermarket sales data using **Microsoft Excel** to unders
 
 ## **DASHBOARD SCREENSHOT**
 
-**DASHBOARD** <img width="1366" height="702" alt="Supermarket sales dashboard" src="https://github.com/user-attachments/assets/b70d7ed4-21be-4f7c-8726-a72c60ff1173" />
+**DASHBOARD** <img <img width="1366" height="684" alt="Screenshot 2026-09-21 165439" src="https://github.com/user-attachments/assets/cec75819-99be-4914-b3b2-09286762ab51" />
+ />
 
 ## **DASHBOARD CONTENTS**
 
