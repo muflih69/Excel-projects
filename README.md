@@ -16,10 +16,13 @@ This project analyzes supermarket sales data using **Microsoft Excel** to unders
 
 ---
 
-## **DASHBOARD**
+## **DASHBOARD SCREENSHOT**
 
-[📊 **VIEW DASHBOARD**](Supermarket%20sales%20dashboard.png)
+**DASHBOARD** <img width="1366" height="702" alt="Supermarket sales dashboard" src="https://github.com/user-attachments/assets/b70d7ed4-21be-4f7c-8726-a72c60ff1173" />
 
+## **DASHBOARD CONTENTS**
+
+KPI Cards | Branch Analysis | Product Line Analysis | Customer Analysis | Payment Analysis | Customer Rating Analysis | Sales Trend | Slicers
 ---
 
 ## **KEY FINDINGS**
