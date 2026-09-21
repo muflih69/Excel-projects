@@ -1,16 +1,12 @@
-# 🛒 Supermarket Sales Analysis
+# **SUPERMARKET SALES ANALYSIS**
 
-## 📌 About the Project
+## **ABOUT THE PROJECT**
 
 This project analyzes supermarket sales data using **Microsoft Excel** to understand sales performance, customer behavior, product performance, and payment preferences.
 
-The project follows a business analysis approach:
-
-**Data Cleaning → Data Analysis → Dashboard → Insights → Recommendations**
-
 ---
 
-## 🎯 Business Questions
+## **BUSINESS QUESTIONS**
 
 1. Which branch generates the highest total sales?
 2. Which product line generates the highest sales and sells the most quantity?
@@ -20,23 +16,13 @@ The project follows a business analysis approach:
 
 ---
 
-## 📊 Dashboard screenshot
+## **DASHBOARD**
 
-
-
-
-The dashboard provides an interactive overview of supermarket sales performance using:
-
-- KPI Cards
-- PivotCharts
-- Slicers
-- Sales Trend Sparkline
-- Conditional Formatting
-- Data Visualization
+[📊 **VIEW DASHBOARD**](Supermarket%20sales%20dashboard.png)
 
 ---
 
-## 🔎 Key Findings
+## **KEY FINDINGS**
 
 | Area | Finding |
 |---|---|
@@ -49,7 +35,7 @@ The dashboard provides an interactive overview of supermarket sales performance 
 
 ---
 
-## 💡 Business Recommendations
+## **BUSINESS RECOMMENDATIONS**
 
 - Study successful sales practices in Brooklyn and consider applying them to other branches.
 - Maintain sufficient Food & Beverages inventory and promote Home & Lifestyle products.
@@ -59,7 +45,7 @@ The dashboard provides an interactive overview of supermarket sales performance 
 
 ---
 
-## 🛠️ Tools & Skills
+## **TOOLS & SKILLS**
 
 - Microsoft Excel
 - Power Query / Query Editor
@@ -72,9 +58,11 @@ The dashboard provides an interactive overview of supermarket sales performance 
 - Sparklines
 - Business Analysis
 - Data Visualization
-- Insight Generation
 
-## 📚 Dataset
+
+---
+
+## DATASET
 
 The dataset contains supermarket transaction information including:
 
@@ -87,24 +75,18 @@ The dataset contains supermarket transaction information including:
 - Customer Rating
 - Date and other transaction details
 
-### 🔗 Original Dataset
-
-[Supermarket Sales Dataset – Kaggle](https://www.kaggle.com/datasets/hanif13/supermarket-sales)
+[🔗 **VIEW ORIGINAL DATASET ON KAGGLE**](https://www.kaggle.com/datasets/hanif13/supermarket-sales)
 
 ---
 
-## 🚀 Project Objective
+## **PROJECT OBJECTIVE**
 
 The objective of this project is to transform raw supermarket sales data into **meaningful business insights** that can support better decision-making.
 
-This project demonstrates practical skills in:
-
-**Excel Data Analysis • Dashboard Development • Business Analysis • Data Visualization • Insight Generation • Business Recommendations**
-
 ---
 
-## 👤 Author
+## **AUTHOR**
 
-**Muhammed Muflih**
+**MUHAMMED MUFLIH**
 
 *Business Analyst Aspirant*
